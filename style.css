@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+h1 span{
+    color: darkturquoise;
+}
+
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+h3{
+    background-color: deepskyblue;
+    color: darkslateblue;
+    text-decoration: underline;
+    text-align: right;
+    vertical-align: middle;
+    padding: 10px;
+}
